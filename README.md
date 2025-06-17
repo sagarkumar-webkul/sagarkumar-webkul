@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">Software Tester Trainee at Webkul</h3>
 
 <p align="center">
