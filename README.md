@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
-<h3 align="center">Associate Quality anylist at Webkul</h3>
+<h3 align="center">Associate Quality anlyst at Webkul</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarkumar446&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumar446" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🧪 **Role**: Software Tester Trainee  
+- 🧪 **Role**: Associate Quality anlyst
 - 🏢 **Organization**: Webkul  
 - 🔍 **Current Focus**: End-to-end functional testing of **Krayin CRM v2.1**  
 - 📦 Actively working on **Marketplace modules (Bagisto)** and **ERP systems (Odoo)**  
